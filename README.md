@@ -221,14 +221,12 @@ Open `htmlcov/index.html` in your web browser to view the report.
 ---
 ### Contributing
 
-1.	Fork the repository.
+Check out the [contributing guidelines](.github/CONTRIBUTING.md) to get involved in the project.
 
-2.	Create a feature branch (`git checkout -b feature-branch`).
+### Issues
 
-3.	Commit your changes (`git commit -m 'Add feature'`).
-
-4.	Push to the branch (`git push origin feature-branch`).
-
-5.	Open a Pull Request.
+- Bug issues: [Report a bug](.github/ISSUE_TEMPLATE/bug_report.md)
+- Custom issues: [Custom issue](.github/ISSUE_TEMPLATE/custom.md)
+- Feature requests: [Request a feature](.github/ISSUE_TEMPLATE/feature_request.md)
 
 # Happy Coding! 😊
