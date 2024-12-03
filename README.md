@@ -26,6 +26,14 @@ This repository provides a Flask application template integrated with MySQL. It 
 - [Flask-MySQLdb](https://pypi.org/project/Flask-MySQLdb/): A Flask extension that provides MySQL database connectivity.
 - [Coverage](https://coverage.readthedocs.io/en/6.2/): A tool for measuring code coverage of Python programs.
 
+### Features
+
+- [Project Structure](#repository-structure): Modular design for easy extensibility.
+- [Getting Started](#getting-started): Instructions to set up and run the application.
+- [Database Setup](#database-setup): Steps to initialize the MySQL database schema.
+- [CRUD Operations](#crud-operations-in-db_routepy): Demonstrates CRUD operations using Flask and MySQL.
+- [Running Tests and Coverage](#running-tests-and-coverage): Instructions to run tests and generate coverage reports.
+
 ## Continuous Integration with GitHub Actions
 
 This repository is configured to automatically run tests on every commit and pull request using **GitHub Actions**. The CI pipeline ensures that new changes do not introduce errors or break existing features.
@@ -57,13 +65,6 @@ This repository is configured to automatically run tests on every commit and pul
 3.	**Fast Feedback**:
 
 •	Developers are notified of issues immediately after pushing code, enabling faster debugging and resolution.
-
-### Features
-
-- [Getting Started](#getting-started): Instructions to set up and run the application.
-- [Database Setup](#database-setup): Steps to initialize the MySQL database schema.
-- [CRUD Operations](#crud-operations-in-db_routepy): Demonstrates CRUD operations using Flask and MySQL.
-- [Running Tests and Coverage](#running-tests-and-coverage): Instructions to run tests and generate coverage reports.
 
 
 ### Repository Structure
