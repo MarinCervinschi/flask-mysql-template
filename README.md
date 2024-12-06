@@ -124,7 +124,7 @@ MYSQL_PORT=3306 # default port
 
 MYSQL_DATABASE=mysql_db # Change this to the desired database name
 ```
-Note: Make sure to remove any comments from the .env file as the .env format does not support comments. Leaving them could result in errors when loading environment variables.
+**Note**: Make sure to remove any comments from the .env file as the .env format does not support comments. Leaving them could result in errors when loading environment variables.
 
 2.	**Start the MySQL Container**:
 
